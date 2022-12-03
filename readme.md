@@ -26,5 +26,5 @@ libwelcome.a
 
 ```shell
 make compile-native 
-make run-jar
+make run-native
 ```
